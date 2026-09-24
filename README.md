@@ -1,135 +1,101 @@
-<div align="center">
+<img src="./assets/hero.svg" width="100%" alt="Deprimus — Software Developer" />
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F0F0F,100:1a1a2e&height=200&section=header&text=Deprimus&fontSize=60&fontColor=00FF9C&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Full-Stack%20Engineer%20%7C%20Trader&descAlignY=55&descSize=18)
+[![Portfolio](https://img.shields.io/badge/Portfolio-deprimus.vercel.app-101114?style=flat-square&logo=vercel&logoColor=4D8DFF&labelColor=050505)](https://deprimus.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-deprimus01-101114?style=flat-square&logo=github&logoColor=4D8DFF&labelColor=050505)](https://github.com/deprimus01)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-deprimus01-101114?style=flat-square&logo=linkedin&logoColor=4D8DFF&labelColor=050505)](https://linkedin.com/in/deprimus01)
+[![Email](https://img.shields.io/badge/Email-deprimus01%40gmail.com-101114?style=flat-square&logo=gmail&logoColor=4D8DFF&labelColor=050505)](mailto:deprimus01@gmail.com)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=600&lines=console.log('Building+full-stack+apps...');+building%20full-stack%20apps...;while(market.open)+%7B+trade();+%7D;+trading%20crypto+%26+forex;git+commit+-m+%22always+shipping%22;" alt="Typing SVG" />
+<br>
 
-<p>
-  <a href="https://deprimus.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-deprimus.vercel.app-00FF9C?style=for-the-badge&logo=vercel&logoColor=000&labelColor=111111" /></a>
-  <a href="https://github.com/deprimus01"><img src="https://img.shields.io/badge/GitHub-deprimus01-00FF9C?style=for-the-badge&logo=github&logoColor=000&labelColor=111111" /></a>
-  <a href="mailto:deprimus01@gmail.com"><img src="https://img.shields.io/badge/Email-deprimus01-00FF9C?style=for-the-badge&logo=gmail&logoColor=000&labelColor=111111" /></a>
-  <a href="https://twitter.com/deprimus01"><img src="https://img.shields.io/badge/Twitter-@deprimus01-00FF9C?style=for-the-badge&logo=x&logoColor=000&labelColor=111111" /></a>
-</p>
-
-</div>
+| BUILDING | FOCUS | LEARNING | CREATIVE |
+|---|---|---|---|
+| Full-stack web applications | React • Node.js • PostgreSQL | Architecture • APIs • Auth | Video editing • Visual design |
 
 ---
 
-## `whoami`
+## // About
+
+I'm a software developer working on full-stack web applications, currently deepening my understanding of backend architecture, APIs, and databases. I enjoy turning ideas into working projects and improving one skill at a time. Outside of code, I also work on video editing and visual design.
 
 ```js
 const deprimus = {
-  role: "Software Developer & Full-Stack Engineer",
-  focus: ["JavaScript", "React", "Node.js", "PostgreSQL"],
-  currentlyExploring: ["Backend architecture", "APIs", "Authentication", "System Design"],
-  sideHustle: "Crypto & Forex Trading",
-  motto: "Always building something.",
+  role: "Software Developer",
+  building: ["Web Applications", "Full-Stack Systems"],
+  stack: ["React", "Node.js", "PostgreSQL"],
+  exploring: ["Architecture", "APIs", "Authentication"],
+  creative: "Video editing & visual design",
+  mindset: "Build. Learn. Improve.",
 };
 ```
 
-- 💻 Software Developer — building web apps and full-stack systems
-- 🌐 Deepening backend development and database design
-- ⚙️ Interested in architecture, APIs, authentication, and system design
-- 📈 Crypto & Forex Trader — reading charts as much as code
-- 🚀 Always shipping something new
-
 ---
 
-## Tech Stack
-
-**Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=fff)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=fff)
+## // Tech Stack
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=fff)
+![React](https://img.shields.io/badge/React-101114?style=flat-square&logo=react&logoColor=4D8DFF)
+![JavaScript](https://img.shields.io/badge/JavaScript-101114?style=flat-square&logo=javascript&logoColor=4D8DFF)
+![HTML5](https://img.shields.io/badge/HTML5-101114?style=flat-square&logo=html5&logoColor=4D8DFF)
+![CSS3](https://img.shields.io/badge/CSS3-101114?style=flat-square&logo=css3&logoColor=4D8DFF)
+![Vite](https://img.shields.io/badge/Vite-101114?style=flat-square&logo=vite&logoColor=4D8DFF)
 
-**Backend & Database**
+**Backend**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=fff)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=fff)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=fff)
+![Node.js](https://img.shields.io/badge/Node.js-101114?style=flat-square&logo=node.js&logoColor=4D8DFF)
+![Express](https://img.shields.io/badge/Express-101114?style=flat-square&logo=express&logoColor=4D8DFF)
+
+**Database**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-101114?style=flat-square&logo=postgresql&logoColor=4D8DFF)
+![SQLite](https://img.shields.io/badge/SQLite-101114?style=flat-square&logo=sqlite&logoColor=4D8DFF)
 
 **Tools**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=fff)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=fff)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000)
+![Git](https://img.shields.io/badge/Git-101114?style=flat-square&logo=git&logoColor=4D8DFF)
+![GitHub](https://img.shields.io/badge/GitHub-101114?style=flat-square&logo=github&logoColor=4D8DFF)
+![VS Code](https://img.shields.io/badge/VS_Code-101114?style=flat-square&logo=visualstudiocode&logoColor=4D8DFF)
+![Linux](https://img.shields.io/badge/Linux-101114?style=flat-square&logo=linux&logoColor=4D8DFF)
 
 ---
 
-## Featured Projects
+## // Featured Projects
 
-<table>
-<tr>
-<td width="50%">
-
-### 📚 ScholarLog
-A student productivity platform for managing notes, assignments, planning, revision, GPA tracking, reflections, and study progress.
-
+**ScholarLog**
+Student productivity platform for managing notes, assignments, planning, revision, GPA tracking, reflections, and study progress.
 `React` `Node.js` `PostgreSQL`
+[Live →](https://scholarlog.online)
 
-[**Live →**](https://scholarlog.online)
+**Deprimus Tech Store**
+Inventory and sales management system built for a small electronics and accessories business.
+`Node.js` `PostgreSQL`
 
-</td>
-<td width="50%">
-
-### 🛒 Deprimus Tech Store
-A full-stack inventory and sales management system built for a small electronics and accessories business.
-
-`Node.js` `PostgreSQL` `REST API`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🏫 Primus Schools
-A school website and application system built as part of my SIWES project.
-
+**Primus Schools**
+School website and application system built during my SIWES project.
 `HTML` `CSS` `JavaScript` `Express` `SQLite`
 
-</td>
-<td width="50%">
-
-</td>
-</tr>
-</table>
+**Deprimus Portfolio**
+Personal developer portfolio and creative space.
+`React` `Vite`
+[Live →](https://deprimus.vercel.app/)
 
 ---
 
-## What I'm Learning
+## // Currently
 
-```text
-Frontend       ████████████████████░░  React
-Backend        ████████████████░░░░░░  Node.js / Express
-Database       ███████████████░░░░░░░  PostgreSQL
-Architecture   ████████████░░░░░░░░░░  APIs / Auth / System Design
-```
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=deprimus01&show_icons=true&theme=dark&hide_border=true&bg_color=0F0F0F&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=deprimus01&theme=dark&hide_border=true&background=0F0F0F&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deprimus01&layout=compact&theme=dark&hide_border=true&bg_color=0F0F0F&title_color=00FF9C&text_color=c9d1d9" width="48%" />
-
-</div>
+| | |
+|---|---|
+| **Building** | Full-stack applications |
+| **Learning** | Backend architecture |
+| **Exploring** | APIs • Authentication • PostgreSQL |
+| **Improving** | React • System design |
 
 ---
 
-<div align="center">
+## // Activity
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0F0F0F&height=100&section=footer)
+<img src="https://ghchart.rshah.org/4D8DFF/deprimus01" alt="deprimus01's GitHub contribution graph" width="100%" />
 
-</div>
+<br>
+
+<img src="./assets/footer.svg" width="100%" alt="Build. Learn. Ship. Repeat." />
