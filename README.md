@@ -1,21 +1,26 @@
 <img src="./assets/hero.svg" width="100%" alt="Deprimus — Software Developer" />
 
+### Hey there, I'm Deprimus 👋
+*Building things, one commit at a time.*
+
+[![Followers](https://img.shields.io/github/followers/deprimus01?style=flat-square&logo=github&label=Followers&color=101114&labelColor=050505&logoColor=4D8DFF)](https://github.com/deprimus01?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=deprimus01&style=flat-square&color=101114&label=Profile+Views)](https://github.com/deprimus01)
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-deprimus.vercel.app-101114?style=flat-square&logo=vercel&logoColor=4D8DFF&labelColor=050505)](https://deprimus.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-deprimus01-101114?style=flat-square&logo=github&logoColor=4D8DFF&labelColor=050505)](https://github.com/deprimus01)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-deprimus01-101114?style=flat-square&logo=linkedin&logoColor=4D8DFF&labelColor=050505)](https://linkedin.com/in/deprimus01)
+[![X](https://img.shields.io/badge/X-deprimus01-101114?style=flat-square&logo=x&logoColor=4D8DFF&labelColor=050505)](https://x.com/deprimus01)
+[![Instagram](https://img.shields.io/badge/Instagram-deprimus01-101114?style=flat-square&logo=instagram&logoColor=4D8DFF&labelColor=050505)](https://instagram.com/deprimus01)
 [![Email](https://img.shields.io/badge/Email-deprimus01%40gmail.com-101114?style=flat-square&logo=gmail&logoColor=4D8DFF&labelColor=050505)](mailto:deprimus01@gmail.com)
-
-<br>
-
-| BUILDING | FOCUS | LEARNING | CREATIVE |
-|---|---|---|---|
-| Full-stack web applications | React • Node.js • PostgreSQL | Architecture • APIs • Auth | Video editing • Visual design |
 
 ---
 
-## // About
+## About Me
 
-I'm a software developer working on full-stack web applications, currently deepening my understanding of backend architecture, APIs, and databases. I enjoy turning ideas into working projects and improving one skill at a time. Outside of code, I also work on video editing and visual design.
+- 💻 Software developer building full-stack web applications with React, Node.js, and PostgreSQL
+- 🧠 Currently deepening my knowledge of backend architecture, APIs, and authentication
+- 🎬 Also work on video editing and visual design
+- 🚀 Always building something new
 
 ```js
 const deprimus = {
@@ -30,7 +35,7 @@ const deprimus = {
 
 ---
 
-## // Tech Stack
+## Tech Stack
 
 **Frontend**
 
@@ -59,7 +64,7 @@ const deprimus = {
 
 ---
 
-## // Featured Projects
+## Featured Projects
 
 **ScholarLog**
 Student productivity platform for managing notes, assignments, planning, revision, GPA tracking, reflections, and study progress.
@@ -81,18 +86,9 @@ Personal developer portfolio and creative space.
 
 ---
 
-## // Currently
+## Activity
 
-| | |
-|---|---|
-| **Building** | Full-stack applications |
-| **Learning** | Backend architecture |
-| **Exploring** | APIs • Authentication • PostgreSQL |
-| **Improving** | React • System design |
-
----
-
-## // Activity
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=deprimus01&bg_color=0A0A0A&color=8B93A1&title_color=F5F7FA&line=4D8DFF&point=6EA8FF&area=true&area_color=4D8DFF&hide_border=true" width="100%" alt="Deprimus's GitHub activity graph" />
 
 <img src="https://ghchart.rshah.org/4D8DFF/deprimus01" alt="deprimus01's GitHub contribution graph" width="100%" />
 
