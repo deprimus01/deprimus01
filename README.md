@@ -1,93 +1,95 @@
-<div align="center">
+# Hey, I'm Deprimus 👋
 
-<img src="./assets/banner.png" alt="Deprimus" width="100%" />
+### Software Developer
 
-# Deprimus
+I build software, experiment with new technologies, and enjoy understanding how things work behind the interface.
 
-**Software Developer** — building practical web applications and learning how systems work under the hood.
+I'm currently focused on JavaScript, React, Node.js, PostgreSQL, and building full-stack applications.
 
-[Portfolio](https://deprimus.vercel.app/) · [ScholarLog](https://scholarlog.online) · [GitHub](https://github.com/deprimus01)
+[![Portfolio](https://img.shields.io/badge/Portfolio-deprimus.vercel.app-111111?style=flat-square&logo=vercel&logoColor=white)](https://deprimus.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-deprimus01-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/deprimus01)
 
-</div>
-
-<br />
+---
 
 ## About
 
-I build full-stack web applications with JavaScript, React, Node.js, and PostgreSQL. Most of what I work on comes out of real problems — a student productivity tool, an inventory system for a business, a school portal built during my SIWES placement.
+- 💻 Software Developer
+- 🌐 Building web applications and full-stack systems
+- 🧠 Currently deepening my knowledge of backend development and databases
+- ⚙️ Interested in software architecture, APIs, authentication, and system design
+- 🎬 Video Editor and content creator
+- 🚀 Always building something
 
-Right now I'm focused on getting better at backend architecture, authentication, and API design — the parts of an app that don't show up in a screenshot but decide whether it actually holds up.
-
-I also edit video on the side.
-
-<br />
+---
 
 ## Tech Stack
 
-**Frontend**
-```
-JavaScript · React · HTML · CSS · Vite
-```
+### Languages
 
-**Backend**
-```
-Node.js · Express
-```
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=fff)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=fff)
 
-**Database**
-```
-PostgreSQL · SQLite
-```
+### Frontend
 
-**Tools**
-```
-Git · GitHub · VS Code · Linux
-```
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=fff)
 
-<br />
+### Backend & Database
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=fff)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=fff)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=fff)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=fff)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000)
+
+---
 
 ## Featured Projects
 
-**[ScholarLog](https://scholarlog.online)**
-Student productivity platform — notes, assignments, planning, revision, GPA tracking, reflections, and study progress in one place.
+### 📚 ScholarLog
 
-**Deprimus Tech Store**
-Inventory and sales management system built for an electronics and accessories business.
-`[repo link]`
+A student productivity platform for managing notes, assignments, planning, revision, GPA tracking, reflections, and study progress.
 
-**Primus Schools**
-School website and application system, built during my SIWES project.
-`[repo link]`
+**React · Node.js · PostgreSQL**
 
-**[Portfolio](https://deprimus.vercel.app/)**
-My personal developer portfolio.
+[View Project](https://scholarlog.online)
 
-<br />
+---
 
-## Currently Building / Learning
+### 🛒 Deprimus Tech Store
 
-- Full-stack development end to end
-- React and Node.js / Express in more depth
-- PostgreSQL and database design
-- REST API design
-- Authentication
-- Software architecture — mostly by building real projects and hitting real problems
+A full-stack inventory and sales management system designed for a small electronics and accessories business.
 
-<br />
+**Node.js · PostgreSQL · REST API**
 
-## GitHub Activity
+---
 
-<div align="center">
+### 🏫 Primus Schools
 
-<img src="https://github-readme-stats.vercel.app/api?username=deprimus01&show_icons=true&hide_title=true&hide_border=true&bg_color=0A0A0A&title_color=0055FB&text_color=8A8A8A&icon_color=0055FB" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deprimus01&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=0055FB&text_color=8A8A8A" alt="Top Languages" height="165" />
+A school website and application system built as part of my SIWES project.
 
-</div>
+**HTML · CSS · JavaScript · Express · SQLite**
 
-<br />
+---
 
-## Connect
+## What I'm Learning
 
-- GitHub — [@deprimus01](https://github.com/deprimus01)
-- Portfolio — [deprimus.vercel.app](https://deprimus.vercel.app/)
-- LinkedIn — `[add your LinkedIn URL here]`
+```text
+Frontend
+████████████████████░░  React
+
+Backend
+████████████████░░░░░░  Node.js / Express
+
+Database
+███████████████░░░░░░░  PostgreSQL
+
+Architecture
+████████████░░░░░░░░░░  APIs / Authentication / System Design
