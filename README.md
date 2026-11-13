@@ -21,17 +21,20 @@
 </div>
 
 ## About
+
 I’m **Deprimus**, a software developer building full-stack web applications with React, Node.js, and PostgreSQL. I’m currently deepening my knowledge of backend architecture, APIs, and authentication, and I also work on video editing and visual design.
 
 I enjoy turning ideas into real projects and improving my skills one step at a time.
 
 ## Engineering Focus
+
 <div align="center">
   <picture><source media="(prefers-color-scheme: light)" srcset="./assets/engineering-focus-light.svg"><img src="./assets/engineering-focus.svg" width="100%" alt="Engineering focus: full-stack apps, backend and APIs, databases, creative side" /></picture>
 </div>
 <div align="center"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg"><img src="./assets/divider.svg" width="100%" alt="" /></picture></div>
 
 ## Selected Projects
+
 <div align="center">
 <a href="https://scholarlog.online"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/project-scholarlog-light.svg"><img src="./assets/project-scholarlog.svg" width="49%" alt="ScholarLog: student productivity platform built with React, Node.js and PostgreSQL" /></picture></a>
 <a href="https://sudeys-graphix.vercel.app"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/project-sudeys-graphix-light.svg"><img src="./assets/project-sudeys-graphix.svg" width="49%" alt="Sudeys Graphix Design: one-page site for a local print shop with a WhatsApp brief flow, built with HTML, CSS and JavaScript" /></picture></a>
@@ -47,12 +50,14 @@ I enjoy turning ideas into real projects and improving my skills one step at a t
 <div align="center"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg"><img src="./assets/divider.svg" width="100%" alt="" /></picture></div>
 
 ## Technology Stack
+
 <div align="center">
   <picture><source media="(prefers-color-scheme: light)" srcset="./assets/tech-stack-light.svg"><img src="./assets/tech-stack.svg" width="100%" alt="React, JavaScript, HTML5, CSS, Vite, Node.js, Express, PostgreSQL, SQLite, Git, GitHub, VS Code and Linux" /></picture>
 </div>
 <div align="center"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg"><img src="./assets/divider.svg" width="100%" alt="" /></picture></div>
 
 ## Currently Building / Learning
+
 - **Full-stack applications:** building complete web apps from frontend to backend.
 - **React:** exploring advanced patterns and better state management.
 - **Node.js / Express:** working with APIs, authentication, and real-world systems.
@@ -60,6 +65,7 @@ I enjoy turning ideas into real projects and improving my skills one step at a t
 - **System design:** understanding how to build scalable and maintainable systems.
 
 ## GitHub Activity
+
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deprimus01/deprimus01/output/github-snake-dark.svg" />
@@ -72,16 +78,19 @@ I enjoy turning ideas into real projects and improving my skills one step at a t
 </div>
 
 ### Recently active
+
 <!-- RECENT:START -->
+
 - _This list fills in automatically after the first workflow run._
-<!-- RECENT:END -->
-<div align="center"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg"><img src="./assets/divider.svg" width="100%" alt="" /></picture></div>
+  <!-- RECENT:END -->
+  <div align="center"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg"><img src="./assets/divider.svg" width="100%" alt="" /></picture></div>
 
 <div align="center">
   <a href="mailto:deprimus01@gmail.com"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/contact-light.svg"><img src="./assets/contact.svg" width="100%" alt="Want to build something together? Say hello." /></picture></a>
 </div>
 
 ## Connect
+
 - **Portfolio:** [deprimus.vercel.app](https://deprimus.vercel.app)
 - **LinkedIn:** [deprimus01](https://linkedin.com/in/deprimus01)
 - **X:** [@deprimus01](https://x.com/deprimus01)
