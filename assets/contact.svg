@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200" role="img" aria-label="Want to build something together? Say hello.">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#05080b"/><stop offset=".55" stop-color="#08110f"/><stop offset="1" stop-color="#110a22"/></linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff" stop-opacity=".2"/><stop offset=".5" stop-color="#a7f3d0" stop-opacity=".2"/><stop offset="1" stop-color="#10b981" stop-opacity=".26"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#34d399"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+    <linearGradient id="mintline" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#a7f3d0"/><stop offset="1" stop-color="#34d399"/></linearGradient>
+    <linearGradient id="num" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#b9cdea"/></linearGradient><clipPath id="c"><rect width="900" height="200" rx="26"/></clipPath>
+  <radialGradient id="g1" cx="1" cy=".5" r=".8"><stop offset="0" stop-color="#10b981" stop-opacity=".30"/><stop offset="1" stop-color="#10b981" stop-opacity="0"/></radialGradient>
+  <radialGradient id="g2" cx="0" cy="1" r=".7"><stop offset="0" stop-color="#7c3aed" stop-opacity=".25"/><stop offset="1" stop-color="#7c3aed" stop-opacity="0"/></radialGradient></defs>
+  <style>.in{animation:in .9s cubic-bezier(.2,.7,.2,1) backwards}@keyframes in{from{opacity:0;transform:translateY(10px)}}.ring{transform-box:fill-box;transform-origin:center;animation:ring 3s ease-out infinite}@keyframes ring{from{transform:scale(.96);opacity:.7}to{transform:scale(1.18);opacity:0}}.border{animation:trace 14s linear infinite}@keyframes trace{to{stroke-dashoffset:-100}}@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
+  <g clip-path="url(#c)"><rect width="900" height="200" fill="url(#bg)"/><rect width="900" height="200" fill="url(#g1)"/><rect width="900" height="200" fill="url(#g2)"/></g>
+  <rect class="border" x="1" y="1" width="898" height="198" rx="25" fill="none" stroke="#34d399" stroke-opacity=".7" stroke-width="1.6" pathLength="100" stroke-dasharray="3 97"/>
+  <rect x=".75" y=".75" width="898.5" height="198.5" rx="25.25" fill="none" stroke="url(#edge)" stroke-width="1.5"/>
+  <g class="in"><text x="44" y="86" font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,serif" font-size="34" font-weight="700" fill="#f4f6fb">Want to build something together?</text>
+  <text x="44" y="122" font-family="'Inter','SF Pro Display','Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="16" fill="#8b949e">Have an idea or a project in mind? Say hello and let’s talk it through.</text></g>
+  <g class="in" style="animation-delay:.25s"><rect class="ring" x="44" y="142" width="148" height="34" rx="17" fill="none" stroke="#34d399"/>
+  <rect x="44" y="142" width="148" height="34" rx="17" fill="#34d399"/>
+  <text x="118" y="164" text-anchor="middle" font-family="'Inter','SF Pro Display','Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="14.5" font-weight="700" fill="#04140e">Say hello →</text></g>
+  <g opacity=".9"><circle cx="760" cy="100" r="46" fill="none" stroke="#34d399" stroke-opacity=".35" stroke-dasharray="2 7"/><circle cx="760" cy="100" r="28" fill="none" stroke="#a78bfa" stroke-opacity=".5"/><circle cx="760" cy="100" r="5" fill="#34d399"/></g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="170" viewBox="0 0 900 170" role="img" aria-label="Build. Learn. Improve. Building practical software, one commit at a time.">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#e4ebf3"/><stop offset=".55" stop-color="#dff0ec"/><stop offset="1" stop-color="#d8cdf0"/></linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#121212" stop-opacity=".2"/><stop offset=".5" stop-color="#0f6d42" stop-opacity=".2"/><stop offset="1" stop-color="#0a6f4d" stop-opacity=".26"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1c825d"/><stop offset="1" stop-color="#400ae0"/></linearGradient>
+    <linearGradient id="mintline" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#0f6d42"/><stop offset="1" stop-color="#1c825d"/></linearGradient>
+    <linearGradient id="num" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#121212"/><stop offset="1" stop-color="#1b3459"/></linearGradient><clipPath id="c"><rect width="900" height="170" rx="26"/></clipPath>
+  <radialGradient id="g1" cx=".5" cy="1" r=".8"><stop offset="0" stop-color="#0a6f4d" stop-opacity=".22"/><stop offset="1" stop-color="#0a6f4d" stop-opacity="0"/></radialGradient></defs>
+  <style>.in{animation:in .9s cubic-bezier(.2,.7,.2,1) backwards}@keyframes in{from{opacity:0;transform:translateY(10px)}}.grow{transform-box:fill-box;transform-origin:center;animation:grow 1.4s cubic-bezier(.2,.7,.2,1) .4s backwards}@keyframes grow{from{transform:scaleX(0)}}@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
+  <g clip-path="url(#c)"><rect width="900" height="170" fill="url(#bg)"/><rect width="900" height="170" fill="url(#g1)"/></g>
+  <rect x=".75" y=".75" width="898.5" height="168.5" rx="25.25" fill="none" stroke="url(#edge)" stroke-width="1.5"/>
+  <g class="in"><text x="450" y="76" text-anchor="middle" font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,serif" font-size="36" font-weight="700" fill="#0d1424">Build. Learn. Improve.</text>
+  <text x="450" y="106" text-anchor="middle" font-family="'Inter','SF Pro Display','Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="15" fill="#666f7a">Building practical software, one commit at a time.</text></g>
+  <rect class="grow" x="350" y="126" width="200" height="2.5" rx="1.25" fill="url(#mintline)"/>
+  <text x="450" y="150" text-anchor="middle" font-family="'JetBrains Mono','SF Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#7c8795">@deprimus01</text>
+</svg>

@@ -1,0 +1,4 @@
+Suggested GitHub bio (160 characters max):
+Software developer building full-stack web apps with React, Node.js and PostgreSQL. Also into video editing and visual design.
+
+Suggested status: Building something new

@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="372" viewBox="0 0 900 372" role="img" aria-label="Animated terminal introducing Deprimus: software developer, mission, focus areas and mindset">
+  <defs>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#121212" stop-opacity=".22"/><stop offset=".5" stop-color="#0f6d42" stop-opacity=".2"/><stop offset="1" stop-color="#0a6f4d" stop-opacity=".28"/></linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#d8e4e5"/><stop offset="1" stop-color="#dfe9eb"/></linearGradient>
+    <clipPath id="win"><rect width="900" height="372" rx="22"/></clipPath>
+  </defs>
+  <style>
+    @keyframes t0{0%,4.286%{transform:translateX(0)}8.333%,99.99%{transform:translateX(75.2px)}100%{transform:translateX(0)}}
+@keyframes v0{0%,4.276%{opacity:0}4.286%,8.333%{opacity:1}8.343%,100%{opacity:0}}
+@keyframes t1{0%,10.000%{transform:translateX(0)}17.286%,99.99%{transform:translateX(564.0px)}100%{transform:translateX(0)}}
+@keyframes v1{0%,9.990%{opacity:0}10.000%,17.286%{opacity:1}17.296%,100%{opacity:0}}
+@keyframes t2{0%,20.143%{transform:translateX(0)}26.333%,99.99%{transform:translateX(159.8px)}100%{transform:translateX(0)}}
+@keyframes v2{0%,20.133%{opacity:0}20.143%,26.333%{opacity:1}26.343%,100%{opacity:0}}
+@keyframes t3{0%,28.000%{transform:translateX(0)}34.343%,99.99%{transform:translateX(460.6px)}100%{transform:translateX(0)}}
+@keyframes v3{0%,27.990%{opacity:0}28.000%,34.343%{opacity:1}34.353%,100%{opacity:0}}
+@keyframes t4{0%,37.200%{transform:translateX(0)}41.962%,99.99%{transform:translateX(103.4px)}100%{transform:translateX(0)}}
+@keyframes v4{0%,37.190%{opacity:0}37.200%,41.962%{opacity:1}41.972%,100%{opacity:0}}
+@keyframes t5{0%,43.629%{transform:translateX(0)}50.057%,99.99%{transform:translateX(470.0px)}100%{transform:translateX(0)}}
+@keyframes v5{0%,43.619%{opacity:0}43.629%,50.057%{opacity:1}50.067%,100%{opacity:0}}
+@keyframes t6{0%,52.914%{transform:translateX(0)}58.629%,99.99%{transform:translateX(141.0px)}100%{transform:translateX(0)}}
+@keyframes v6{0%,52.904%{opacity:0}52.914%,58.629%{opacity:1}58.639%,100%{opacity:0}}
+@keyframes t7{0%,60.295%{transform:translateX(0)}64.324%,99.99%{transform:translateX(206.8px)}100%{transform:translateX(0)}}
+@keyframes v7{0%,60.285%{opacity:0}60.295%,64.324%{opacity:1}64.334%,100%{opacity:0}}
+@keyframes fin{0%,67.181%{opacity:0}67.681%,100%{opacity:1}}
+
+    .fade{animation:fade 21.0s linear infinite}
+    @keyframes fade{0%,93%{opacity:1}97%,99.9%{opacity:0}100%{opacity:1}}
+    .blink{animation:fin 21.0s linear infinite,bl 1.05s steps(1) infinite}
+    @keyframes bl{50%{visibility:hidden}}
+    @media (prefers-reduced-motion: reduce){*{animation:none!important}.cov,.cur{display:none}.blink{opacity:1}}
+  </style>
+  <g clip-path="url(#win)">
+    <rect width="900" height="372" fill="#e0e7f1"/>
+    <rect width="900" height="46" fill="url(#bar)"/>
+    <line x1="0" y1="46" x2="900" y2="46" stroke="#cbdbdb"/>
+    <circle cx="30" cy="23" r="6" fill="#cd0a00" opacity=".85"/><circle cx="52" cy="23" r="6" fill="#b37b01" opacity=".85"/><circle cx="74" cy="23" r="6" fill="#187826" opacity=".85"/>
+    <text x="450" y="28" text-anchor="middle" font-family="'JetBrains Mono','SF Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" fill="#707f96">deprimus@dev: ~/profile</text>
+    <g class="fade">
+<text x="40" y="98" xml:space="preserve" font-family="'JetBrains Mono','SF Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15.5"><tspan fill="#0f6d42">$ </tspan><tspan fill="#1db075">whoami</tspan></text>
+<rect class="cov" x="38" y="79" width="105" height="28" fill="#e0e7f1" style="animation:t0 21.0s steps(8) infinite"/>
+<rect class="cur" x="38" y="82" width="8" height="20" rx="1.5" fill="#1db075" opacity="0" style="animation:t0 21.0s steps(8) infinite,v0 21.0s linear infinite"/>
+<text x="40" y="124" xml:space="preserve" font-family="'JetBrains Mono','SF Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15.5"><tspan fill="#0d1424">deprimus</tspan><tspan fill="#3e4c60">, software developer · video editing · visual design</tspan></text>
+<rect class="cov" x="38" y="105" width="594" height="28" fill="#e0e7f1" style="animation:t1 21.0s steps(60) infinite"/>
+<rect class="cur" x="38" y="108" width="8" height="20" rx="1.5" fill="#1db075" opacity="0" style="animation:t1 21.0s steps(60) infinite,v1 21.0s linear infinite"/>
+<text x="40" y="158" xml:space="preserve" font-family="'JetBrains Mono','SF Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15.5"><tspan fill="#0f6d42">$ </tspan><tspan fill="#1db075">cat </tspan><tspan fill="#0d1424">mission.txt</tspan></text>
+<rect class="cov" x="38" y="139" width="190" height="28" fill="#e0e7f1" style="animation:t2 21.0s steps(17) infinite"/>
+<rect class="cur" x="38" y="142" width="8" height="20" rx="1.5" fill="#1db075" opacity="0" style="animation:t2 21.0s steps(17) infinite,v2 21.0s linear infinite"/>
+<text x="40" y="184" xml:space="preserve" font-family="'JetBrains Mono','SF Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15.5"><tspan fill="#0d1424">Build practical software. Learn how systems work.</tspan></text>
+<rect class="cov" x="38" y="165" width="491" height="28" fill="#e0e7f1" style="animation:t3 21.0s steps(49) infinite"/>
+<rect class="cur" x="38" y="168" width="8" height="20" rx="1.5" fill="#1db075" opacity="0" style="animation:t3 21.0s steps(49) infinite,v3 21.0s linear infinite"/>
+<text x="40" y="218" xml:space="preserve" font-family="'JetBrains Mono','SF Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15.5"><tspan fill="#0f6d42">$ </tspan><tspan fill="#1db075">ls </tspan><tspan fill="#0d1424">focus/</tspan></text>
+<rect class="cov" x="38" y="199" width="133" height="28" fill="#e0e7f1" style="animation:t4 21.0s steps(11) infinite"/>
+<rect class="cur" x="38" y="202" width="8" height="20" rx="1.5" fill="#1db075" opacity="0" style="animation:t4 21.0s steps(11) infinite,v4 21.0s linear infinite"/>
+<text x="40" y="244" xml:space="preserve" font-family="'JetBrains Mono','SF Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15.5"><tspan fill="#1db075">full-stack-apps  backend-apis  databases  creative</tspan></text>
+<rect class="cov" x="38" y="225" width="500" height="28" fill="#e0e7f1" style="animation:t5 21.0s steps(50) infinite"/>
+<rect class="cur" x="38" y="228" width="8" height="20" rx="1.5" fill="#1db075" opacity="0" style="animation:t5 21.0s steps(50) infinite,v5 21.0s linear infinite"/>
+<text x="40" y="278" xml:space="preserve" font-family="'JetBrains Mono','SF Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15.5"><tspan fill="#0f6d42">$ </tspan><tspan fill="#1db075">echo </tspan><tspan fill="#0d1424">$MINDSET</tspan></text>
+<rect class="cov" x="38" y="259" width="171" height="28" fill="#e0e7f1" style="animation:t6 21.0s steps(15) infinite"/>
+<rect class="cur" x="38" y="262" width="8" height="20" rx="1.5" fill="#1db075" opacity="0" style="animation:t6 21.0s steps(15) infinite,v6 21.0s linear infinite"/>
+<text x="40" y="304" xml:space="preserve" font-family="'JetBrains Mono','SF Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15.5"><tspan fill="#0d1424">Build. Learn. Improve.</tspan></text>
+<rect class="cov" x="38" y="285" width="237" height="28" fill="#e0e7f1" style="animation:t7 21.0s steps(22) infinite"/>
+<rect class="cur" x="38" y="288" width="8" height="20" rx="1.5" fill="#1db075" opacity="0" style="animation:t7 21.0s steps(22) infinite,v7 21.0s linear infinite"/>
+<text x="40" y="338" xml:space="preserve" font-family="'JetBrains Mono','SF Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15.5" fill="#0f6d42">$ </text><rect class="blink" x="60" y="323" width="9" height="19" rx="1.5" fill="#1db075"/>
+    </g>
+  </g>
+  <rect x=".75" y=".75" width="898.5" height="370.5" rx="21.25" fill="none" stroke="url(#edge)" stroke-width="1.5"/>
+</svg>
