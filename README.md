@@ -87,7 +87,7 @@ I enjoy turning ideas into real projects and improving my skills one step at a t
 
 <div align="center">
   <a href="mailto:deprimus01@gmail.com"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/contact-light.svg"><img src="./assets/contact.svg" width="100%" alt="Want to build something together? Say hello." /></picture></a>
-</div>
+</div >
 
 ## Connect
 
