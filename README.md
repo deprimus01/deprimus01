@@ -32,15 +32,18 @@ I enjoy turning ideas into real projects and improving my skills one step at a t
 <div align="center"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg"><img src="./assets/divider.svg" width="100%" alt="" /></picture></div>
 
 ## Selected Projects
-<div align="center">
-<a href="https://scholarlog.online"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/project-scholarlog-light.svg"><img src="./assets/project-scholarlog.svg" width="400" alt="ScholarLog: student productivity platform built with React, Node.js and PostgreSQL" /></picture></a>
-<a href="https://sudeys-graphix.vercel.app"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/project-sudeys-graphix-light.svg"><img src="./assets/project-sudeys-graphix.svg" width="400" alt="Sudeys Graphix Design: one-page site for a local print shop with a WhatsApp brief flow, built with HTML, CSS and JavaScript" /></picture></a>
-<br />
+<p align="center">
 <a href="https://prime-shoplify.vercel.app"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/project-prime-shoplify-light.svg"><img src="./assets/project-prime-shoplify.svg" width="400" alt="Prime Shoplify: social-commerce platform for Nigerian sellers with WhatsApp-ready storefronts, Paystack payments and a seller dashboard, built with Next.js, TypeScript, Prisma and PostgreSQL" /></picture></a>
+<a href="https://sudeys-graphix.vercel.app"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/project-sudeys-graphix-light.svg"><img src="./assets/project-sudeys-graphix.svg" width="400" alt="Sudeys Graphix Design: one-page site for a local print shop with a WhatsApp brief flow, built with HTML, CSS and JavaScript" /></picture></a>
+</p>
+<p align="center">
+<a href="https://scholarlog.online"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/project-scholarlog-light.svg"><img src="./assets/project-scholarlog.svg" width="400" alt="ScholarLog: student productivity platform built with React, Node.js and PostgreSQL" /></picture></a>
 <a href="https://deprimus.vercel.app"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/project-portfolio-light.svg"><img src="./assets/project-portfolio.svg" width="400" alt="Deprimus Portfolio: personal developer portfolio built with React and Vite" /></picture></a>
-<br />
+</p>
+<p align="center">
 <a href="https://nurudeen-schools.vercel.app"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/project-nurudeen-schools-light.svg"><img src="./assets/project-nurudeen-schools.svg" width="400" alt="Nurudeen Schools: school website for Gusau with an AI admissions chat widget, built with Next.js and React" /></picture></a>
-</div>
+</p>
+
 <p align="center">See everything in <a href="https://deprimus.vercel.app">the portfolio</a>.</p>
 
 <div align="center"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg"><img src="./assets/divider.svg" width="100%" alt="" /></picture></div>
