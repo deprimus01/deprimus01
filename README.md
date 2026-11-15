@@ -79,7 +79,11 @@ I enjoy turning ideas into real projects and improving my skills one step at a t
 
 ### Recently active
 <!-- RECENT:START -->
-- _This list fills in automatically after the first workflow run._
+- [**airdrop-checker**](https://github.com/deprimus01/airdrop-checker) `JavaScript`
+- [**sudeys-graphix-design**](https://github.com/deprimus01/sudeys-graphix-design) `CSS`
+- [**ui-designs**](https://github.com/deprimus01/ui-designs) `HTML`
+- [**POKEMAN-API**](https://github.com/deprimus01/POKEMAN-API) `CSS`
+- [**primus-schools-project**](https://github.com/deprimus01/primus-schools-project) `JavaScript`
 <!-- RECENT:END -->
 <div align="center"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg"><img src="./assets/divider.svg" width="100%" alt="" /></picture></div>
 
