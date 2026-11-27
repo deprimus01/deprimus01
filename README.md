@@ -83,8 +83,8 @@ I enjoy turning ideas into real projects and improving my skills one step at a t
 ## Connect
 - <picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/globe-light.svg"><img src="./assets/icons/globe.svg" width="18" height="18" align="absmiddle" alt="" /></picture> **Portfolio:** [deprimus.xyz](https://deprimus.xyz)
 - <picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/linkedin-light.svg"><img src="./assets/icons/linkedin.svg" width="18" height="18" align="absmiddle" alt="" /></picture> **LinkedIn:** [deprimus01](https://linkedin.com/in/deprimus01)
-- <picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/x-light.svg"><img src="./assets/icons/x.svg" width="18" height="18" align="absmiddle" alt="" /></picture> **X:** [@deprimus01](https://x.com/deprimus01)
-- <picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/instagram-light.svg"><img src="./assets/icons/instagram.svg" width="18" height="18" align="absmiddle" alt="" /></picture> **Instagram:** [@deprimus01](https://instagram.com/deprimus01)
+- <picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/x-light.svg"><img src="./assets/icons/x.svg" width="18" height="18" align="absmiddle" alt="" /></picture> **X:** [@brostogome](https://x.com/Brostogome)
+- <picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/instagram-light.svg"><img src="./assets/icons/instagram.svg" width="18" height="18" align="absmiddle" alt="" /></picture> **Instagram:** [@de_primus](https://instagram.com/de_primus)
 - <picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/mail-light.svg"><img src="./assets/icons/mail.svg" width="18" height="18" align="absmiddle" alt="" /></picture> **Email:** [deprimus01@gmail.com](mailto:deprimus01@gmail.com)
 - <picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/file-down-light.svg"><img src="./assets/icons/file-down.svg" width="18" height="18" align="absmiddle" alt="" /></picture> **Resume:** [Download PDF](./assets/resume.pdf)
 
