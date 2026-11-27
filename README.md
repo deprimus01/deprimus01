@@ -9,7 +9,7 @@
 </a>
 <br /><br />
 <a href="https://github.com/deprimus01"><img src="https://img.shields.io/badge/GitHub-deprimus01-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub" /></a>
-<a href="https://deprimus.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit%20website-0d1117?style=for-the-badge&logo=vercel&logoColor=34d399&labelColor=0d1117" alt="Portfolio" /></a>
+<a href="https://deprimus.xyz"><img src="https://img.shields.io/badge/Portfolio-Visit%20website-0d1117?style=for-the-badge&logo=vercel&logoColor=34d399&labelColor=0d1117" alt="Portfolio" /></a>
 <a href="https://linkedin.com/in/deprimus01"><img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=60a5fa&labelColor=0d1117" alt="LinkedIn" /></a>
 <a href="mailto:deprimus01@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0d1117?style=for-the-badge&logo=gmail&logoColor=f87171&labelColor=0d1117" alt="Email" /></a>
 <br /><br />
@@ -81,7 +81,7 @@ I enjoy turning ideas into real projects and improving my skills one step at a t
 </div>
 
 ## Connect
-- <picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/globe-light.svg"><img src="./assets/icons/globe.svg" width="18" height="18" align="absmiddle" alt="" /></picture> **Portfolio:** [deprimus.vercel.app](https://deprimus.vercel.app)
+- <picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/globe-light.svg"><img src="./assets/icons/globe.svg" width="18" height="18" align="absmiddle" alt="" /></picture> **Portfolio:** [deprimus.vercel.app](https://deprimus.xyz)
 - <picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/linkedin-light.svg"><img src="./assets/icons/linkedin.svg" width="18" height="18" align="absmiddle" alt="" /></picture> **LinkedIn:** [deprimus01](https://linkedin.com/in/deprimus01)
 - <picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/x-light.svg"><img src="./assets/icons/x.svg" width="18" height="18" align="absmiddle" alt="" /></picture> **X:** [@deprimus01](https://x.com/deprimus01)
 - <picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/instagram-light.svg"><img src="./assets/icons/instagram.svg" width="18" height="18" align="absmiddle" alt="" /></picture> **Instagram:** [@deprimus01](https://instagram.com/deprimus01)
