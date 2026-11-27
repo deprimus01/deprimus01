@@ -21,17 +21,20 @@
 </div>
 
 ## About
+
 I’m **Muhammad Suleiman**, a software developer building full-stack web applications with React, Node.js, and PostgreSQL. I’m currently deepening my knowledge of backend architecture, APIs, and authentication, and I also work on video editing and visual design.
 
 I enjoy turning ideas into real projects and improving my skills one step at a time.
 
 ## Engineering Focus
+
 <div align="center">
   <picture><source media="(prefers-color-scheme: light)" srcset="./assets/engineering-focus-light.svg"><img src="./assets/engineering-focus.svg" width="400" alt="Engineering focus: full-stack apps, backend and APIs, databases, creative side" /></picture>
 </div>
 <div align="center"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg"><img src="./assets/divider.svg" width="100%" alt="" /></picture></div>
 
 ## Selected Projects
+
 <p align="center">
 <a href="https://prime-shoplify.vercel.app"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/project-prime-shoplify-light.svg"><img src="./assets/project-prime-shoplify.svg" width="400" alt="Prime Shoplify: social-commerce platform for Nigerian sellers with WhatsApp-ready storefronts, Paystack payments and a seller dashboard, built with Next.js, TypeScript, Prisma and PostgreSQL" /></picture></a>
 <a href="https://sudeys-graphix.vercel.app"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/project-sudeys-graphix-light.svg"><img src="./assets/project-sudeys-graphix.svg" width="400" alt="Sudeys Graphix Design: one-page site for a local print shop with a WhatsApp brief flow, built with HTML, CSS and JavaScript" /></picture></a>
@@ -44,7 +47,7 @@ I enjoy turning ideas into real projects and improving my skills one step at a t
 <a href="https://nurudeen-schools.vercel.app"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/project-nurudeen-schools-light.svg"><img src="./assets/project-nurudeen-schools.svg" width="400" alt="Nurudeen Schools: school website for Gusau with an AI admissions chat widget, built with Next.js and React" /></picture></a>
 </p>
 
-<p align="center">See everything in <a href="https://deprimus.vercel.app">the portfolio</a>.</p>
+<p align="center">See everything in <a href="https://deprimus.xyz">the portfolio</a>.</p>
 
 <div align="center"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg"><img src="./assets/divider.svg" width="100%" alt="" /></picture></div>
 <div align="center">
@@ -53,12 +56,14 @@ I enjoy turning ideas into real projects and improving my skills one step at a t
 <div align="center"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg"><img src="./assets/divider.svg" width="100%" alt="" /></picture></div>
 
 ## Technology Stack
+
 <div align="center">
   <picture><source media="(prefers-color-scheme: light)" srcset="./assets/tech-stack-light.svg"><img src="./assets/tech-stack.svg" width="400" alt="Next.js, React, TypeScript, JavaScript, HTML5, CSS, Vite, Node.js, Express, PostgreSQL, Prisma, SQLite, Git, GitHub, VS Code, Linux, Vercel and Render" /></picture>
 </div>
 <div align="center"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg"><img src="./assets/divider.svg" width="100%" alt="" /></picture></div>
 
 ## Currently Building / Learning
+
 - **Full-stack applications:** building complete web apps from frontend to backend.
 - **React:** exploring advanced patterns and better state management.
 - **Node.js / Express:** working with APIs, authentication, and real-world systems.
@@ -66,6 +71,7 @@ I enjoy turning ideas into real projects and improving my skills one step at a t
 - **System design:** understanding how to build scalable and maintainable systems.
 
 ## GitHub Activity
+
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deprimus01/deprimus01/output/github-snake-dark.svg" />
@@ -81,6 +87,7 @@ I enjoy turning ideas into real projects and improving my skills one step at a t
 </div>
 
 ## Connect
+
 - <picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/globe-light.svg"><img src="./assets/icons/globe.svg" width="18" height="18" align="absmiddle" alt="" /></picture> **Portfolio:** [deprimus.xyz](https://deprimus.xyz)
 - <picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/linkedin-light.svg"><img src="./assets/icons/linkedin.svg" width="18" height="18" align="absmiddle" alt="" /></picture> **LinkedIn:** [deprimus01](https://linkedin.com/in/deprimus01)
 - <picture><source media="(prefers-color-scheme: light)" srcset="./assets/icons/x-light.svg"><img src="./assets/icons/x.svg" width="18" height="18" align="absmiddle" alt="" /></picture> **X:** [@brostogome](https://x.com/Brostogome)
